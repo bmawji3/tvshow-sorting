@@ -47,6 +47,7 @@
 ('Mr. Robot', '1')
 ('Quantico', '1')
 ('Rick and Morty', '1')
+('Series Of Unfortunate Events', '1')
 ('Sherlock', '1')
 ('Stranger Things', '1')
 ('Supergirl', '1')
